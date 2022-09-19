@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat hogehoge.txt
+cat fizz
+cat buzz
