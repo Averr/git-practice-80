@@ -2,4 +2,5 @@
 
 cat hogehoge.txt
 cat fizz
+cat testest.txt
 cat buzz
